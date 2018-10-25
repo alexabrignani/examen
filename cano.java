@@ -7,7 +7,7 @@ package net.davidvalles.batalla;
  * @author david
  */
 public abstract class CosaMobil extends Cosa {
-
+//Modificacio
     /**
      * Direcció del moviment.
      */
